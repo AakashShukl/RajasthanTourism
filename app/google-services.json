@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "289646954913",
+    "firebase_url": "https://rajasthanhack.firebaseio.com",
+    "project_id": "rajasthanhack",
+    "storage_bucket": "rajasthanhack.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289646954913:android:9c7dc3397e9c1776",
+        "android_client_info": {
+          "package_name": "pay4free.in.rajasthantourism"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "289646954913-rcukht90v7hj9re7p8ap4i83ejur5epk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pay4free.in.rajasthantourism",
+            "certificate_hash": "f14aef934b36c782310e238ee34a419eee0ccd33"
+          }
+        },
+        {
+          "client_id": "289646954913-3sdhjn2sbtjrud0qbi7acq9capqrjjbn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6q8Iovc6dH9FGyxJz9KzltcYCit09yEY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "289646954913-3sdhjn2sbtjrud0qbi7acq9capqrjjbn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

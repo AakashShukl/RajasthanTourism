@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Rajasthan Tourism</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="api">968aef00-4636-4b33-80d1-45e21cbc6437</string>
+    <string name="action_settings">Settings</string>
+
+
+    !-- Strings related to login -->
+    <string name="prompt_email">Enter your email</string>
+    <string name="prompt_password">Enter your password</string>
+    <string name="action_sign_in">Sign in </string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="by_logging_in_you_consent_to_move_and_agree_our_terms_and_conditions">By logging in,you consent to move and agree our terms and conditions.</string>
+    <string name="create_account">Create  account</string>
+    <string name="enter_your_phone_number">Enter your phone number</string>
+</resources>
